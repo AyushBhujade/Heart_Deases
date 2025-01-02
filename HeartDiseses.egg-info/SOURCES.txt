@@ -1,0 +1,8 @@
+LICENCE
+README.md
+setup.py
+HeartDiseses.egg-info/PKG-INFO
+HeartDiseses.egg-info/SOURCES.txt
+HeartDiseses.egg-info/dependency_links.txt
+HeartDiseses.egg-info/requires.txt
+HeartDiseses.egg-info/top_level.txt
